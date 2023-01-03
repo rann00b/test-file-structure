@@ -1,0 +1,22 @@
+{
+  "name": "my-api",
+  "type": "service",
+  "dateCreated": 1672731495591,
+  "lastModified": 1672731495591,
+  "url": "https://petstore.swagger.io/v2/swagger.json",
+  "auth": {
+    "type": "apiKey",
+    "securityDefinitionName": "api_key",
+    "in": "header",
+    "key": "api_key",
+    "value": "6e52e91ee49bdb9c60cfe2fc37222375:6d2766765102bfd2619df83aea1c01c8",
+    "proxy": {
+      "id": "alxlzfhquk",
+      "endpoint": "https://alxlzfhquk.execute-api.us-east-1.amazonaws.com"
+    }
+  },
+  "server": {
+    "type": "2.0",
+    "scheme": "https"
+  }
+}
