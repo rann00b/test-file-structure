@@ -6,9 +6,9 @@
   "defaultPage": "home",
   "pages": [
     {
-      "name": "home",
+      "name": "main",
       "type": "page",
-      "url": "/home",
+      "url": "/main",
       "params": {},
       "variables": [
         {
