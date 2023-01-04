@@ -3,5 +3,5 @@
   "type": "js",
   "dateCreated": 1672731366477,
   "lastModified": 1672731367551,
-  "contents": ""
+  "contents": "console.log('Hello World');"
 }
