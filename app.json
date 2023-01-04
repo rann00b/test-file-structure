@@ -3,7 +3,7 @@
   "type": "app",
   "dateCreated": 1672705312720,
   "lastModified": 1672731643009,
-  "defaultPage": "home",
+  "defaultPage": "main",
   "pages": [
     {
       "name": "main",
