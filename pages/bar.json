@@ -1,0 +1,8 @@
+{
+  "name": "bar",
+  "type": "page",
+  "url": "/bar",
+  "params": {},
+  "variables": [],
+  "children": []
+}

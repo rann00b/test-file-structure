@@ -1,0 +1,8 @@
+{
+  "name": "foo",
+  "type": "page",
+  "url": "/foo",
+  "params": {},
+  "variables": [],
+  "children": []
+}

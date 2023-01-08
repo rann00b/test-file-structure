@@ -2,82 +2,8 @@
   "name": "test",
   "type": "app",
   "dateCreated": 1672705312720,
-  "lastModified": 1673173283225,
+  "lastModified": 1673174026868,
   "defaultPage": "main",
-  "pages": [
-    {
-      "name": "main",
-      "type": "page",
-      "url": "/main",
-      "params": {},
-      "variables": [
-        {
-          "name": "myApi",
-          "type": "service",
-          "description": "",
-          "id": "63b3db670d6668a7b7d30478"
-        }
-      ],
-      "children": [
-        {
-          "name": "Navigation",
-          "nodeName": "bln-navigation",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "288vLW"
-            },
-            {
-              "property": "core",
-              "value": ""
-            }
-          ],
-          "classList": [],
-          "conditionalClasses": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": ""
-          },
-          "styles": [],
-          "children": [],
-          "type": "core-component",
-          "id": "navigation",
-          "expressions": [],
-          "mapLines": []
-        },
-        {
-          "name": "global-component",
-          "nodeName": "global-component",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "Snya8L"
-            }
-          ],
-          "classList": [],
-          "conditionalClasses": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": ""
-          },
-          "styles": [],
-          "children": [],
-          "type": "custom-component",
-          "id": "63b3db8e0d6668a7b7d30479",
-          "expressions": [],
-          "mapLines": []
-        }
-      ]
-    }
-  ],
   "config": {
     "config": {
       "parameters": [],
