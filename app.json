@@ -1,8 +1,6 @@
 {
   "name": "test",
   "type": "app",
-  "dateCreated": 1672705312720,
-  "lastModified": 1673174026868,
   "defaultPage": "main",
   "config": {
     "config": {

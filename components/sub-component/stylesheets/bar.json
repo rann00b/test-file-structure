@@ -1,7 +1,5 @@
 {
   "name": "bar.css",
   "type": "css",
-  "dateCreated": 1672731393247,
-  "lastModified": 1672731394330,
   "contents": "sub-component {\n\n}"
 }
