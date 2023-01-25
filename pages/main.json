@@ -36,13 +36,13 @@
       "mapLines": []
     },
     {
-      "name": "global-component",
-      "nodeName": "global-component",
+      "name": "h1",
+      "nodeName": "h1",
       "elementId": "",
       "attributes": [
         {
           "property": "data-id",
-          "value": "Snya8L"
+          "value": "nanbw3"
         }
       ],
       "classList": [],
@@ -55,11 +55,14 @@
         "variable": ""
       },
       "styles": [],
-      "children": [],
-      "type": "custom-component",
-      "id": "63b3db8e0d6668a7b7d30479",
-      "expressions": [],
-      "mapLines": []
+      "children": [
+        {
+          "name": "text",
+          "nodeName": "text",
+          "textContent": "Hello, world",
+          "evaluate": false
+        }
+      ]
     }
   ]
 }
