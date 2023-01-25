@@ -3,14 +3,7 @@
   "type": "page",
   "url": "/main",
   "params": {},
-  "variables": [
-    {
-      "name": "myApi",
-      "type": "service",
-      "description": "",
-      "id": "63b3db670d6668a7b7d30478"
-    }
-  ],
+  "variables": [],
   "children": [
     {
       "name": "Navigation",
