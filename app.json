@@ -1,7 +1,7 @@
 {
   "name": "test",
   "type": "app",
-  "defaultPage": "foo",
+  "defaultPage": "bar",
   "config": {
     "config": {
       "parameters": [],
