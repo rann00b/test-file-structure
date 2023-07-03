@@ -59,7 +59,7 @@
         {
           "name": "text",
           "nodeName": "text",
-          "textContent": "Hi, world",
+          "textContent": "Hi, world!",
           "evaluate": false
         }
       ]
