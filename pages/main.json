@@ -32,8 +32,7 @@
       "children": [],
       "type": "core-component",
       "id": "navigation",
-      "expressions": [],
-      "mapLines": []
+      "expressions": []
     },
     {
       "name": "h1",
